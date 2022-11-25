@@ -1,4 +1,4 @@
-module github.com/go-echarts/go-echarts/v2
+module github.com/alior101/go-echarts
 
 go 1.15
 
